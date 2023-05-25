@@ -1,0 +1,4 @@
+opencv                    4.6.0
+matplotlib                3.7.1
+python                    3.9.13
+numpy                     1.22.3
